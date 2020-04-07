@@ -1,3 +1,9 @@
+/*
+* CEI XYZ tristimulus calculator exercise
+* Luca Armellin
+* mat. 894527
+* */
+
 package com.tristimulusCalculator;
 
 import org.knowm.xchart.QuickChart;
